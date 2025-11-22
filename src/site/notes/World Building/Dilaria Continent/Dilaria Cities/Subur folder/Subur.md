@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"dg-home":null,"permalink":"/world-building/dilaria-continent/dilaria-cities/subur-folder/subur/","dgPassFrontmatter":true}
+---
+
+- Located on the eastern coast of [[World Building/Dilaria Continent/Dilaria Landmarks/Plains and Forests/Gurun\|Gurun]] plains.
+- City created after the idea of [[World Building/Dilaria Continent/Dilaria Cities/Silden Folder/Districts of Silden/District of Artifice\|District of Artifice]] was rejected by [[World Building/Dilaria Continent/Dilaria Cities/Silden Folder/District Court\|District Court]] in [[World Building/Dilaria Continent/Dilaria Cities/Silden Folder/Silden\|Silden]]
+- Most [[World Building/Dilaria Continent/Dilaria Cities/Subur folder/Subur\|Subur]] citizens are artificers.
+- Because people from [[World Building/Dilaria Continent/Dilaria Cities/Silden Folder/Districts of Silden/District of Conjuration\|District of Conjuration]], [[World Building/Dilaria Continent/Dilaria Cities/Silden Folder/Districts of Silden/District of Evocation\|District of Evocation]] and [[World Building/Dilaria Continent/Dilaria Cities/Silden Folder/Districts of Silden/District of Transmutation\|District of Transmutation]] wanted to create the [[World Building/Dilaria Continent/Dilaria Cities/Silden Folder/Districts of Silden/District of Artifice\|District of Artifice]], Citizens of [[World Building/Dilaria Continent/Dilaria Cities/Subur folder/Subur\|Subur]] share many characteristics of citizens from these districts.
+- Similarly to [[World Building/Dilaria Continent/Dilaria Cities/Cairan folder/Cairan\|Cairan]] most citizens worship [[Cosmology of Dilaria/Gods/Surtur\|Surtur]].

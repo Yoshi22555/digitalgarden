@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"dg-home":null,"permalink":"/world-building/dilaria-continent/dilaria-cities/cairan-folder/surtur-church/","dgPassFrontmatter":true}
+---
+
+- Church dedicated to the god [[Cosmology of Dilaria/Gods/Surtur\|Surtur]]
+- Most members live in [[World Building/Dilaria Continent/Dilaria Cities/Cairan folder/Cairan\|Cairan]] but it has spread across Dilaria, especially on [[World Building/Dilaria Continent/Dilaria Landmarks/Plains and Forests/Gurun\|Gurun]] plains and in [[World Building/Dilaria Continent/Dilaria Cities/Port Emas Folder/Port Emas\|Port Emas]]
+- It's followers believe that through hard work they will be noticed by [[Cosmology of Dilaria/Gods/Surtur\|Surtur]] and he will grant them their wishes and take them to the sun where they will spend their afterlife basking in its pleasant heat and living in eternal bliss.
+- Followers of the [[World Building/Dilaria Continent/Dilaria Cities/Cairan folder/Surtur church\|Surtur church]] believe that [[Characters/Tenazir\|Tenazir]] was a messenger sent by [[Cosmology of Dilaria/Gods/Surtur\|Surtur]] and view him as a holy figure. The [[Characters/Cairan Family\|Cairan Family]] despite not agreeing with how [[World Building/Dilaria Continent/Dilaria Cities/Cairan folder/Surtur church\|Surtur church]] see [[Characters/Tenazir\|Tenazir]] promoted the religion so their people would unite and help them establish the [[World Building/Dilaria Continent/Dilaria Cities/Cairan folder/Cairan\|Cairan]] stronghold.

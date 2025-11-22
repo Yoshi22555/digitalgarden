@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"dg-home":null,"permalink":"/world-building/dilaria-continent/dilaria-landmarks/plains-and-forests/emas-plains/","dgPassFrontmatter":true}
+---
+
+- With the exception of one massive terminal moraine, this region is extremely flat. 
+- Emas Plains are mainly inhabited and controlled by humans with their capital city [[World Building/Dilaria Continent/Dilaria Cities/Port Emas Folder/Port Emas\|Port Emas]] walled off from the rest of the continent by terminal moraine. 
+- People there focus on fishing and trade. It's relatively dry (compared to [[World Building/Dilaria Continent/Dilaria Landmarks/Plains and Forests/Gurun\|Gurun]] plains or [[World Building/Dilaria Continent/Dilaria Landmarks/Plains and Forests/Veruna\|Veruna]] forest) and experiences 4 seasons, extremely hot summer (when the sun is the closest), winter (when the sun is behind the [[World Building/Dilaria Continent/Dilaria Landmarks/Mountains/Asal Mountain\|Asal Mountain]]), spring and autumn (when the sun is either to the north or the south of the [[World Building/Dilaria Continent/Dilaria Landmarks/Mountains/Asal Mountain\|Asal Mountain]]), because of that the agriculture is limited to the 3 seasons that are not summer.

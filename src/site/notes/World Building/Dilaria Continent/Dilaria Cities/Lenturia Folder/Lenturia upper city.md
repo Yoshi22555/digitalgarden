@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"dg-home":null,"permalink":"/world-building/dilaria-continent/dilaria-cities/lenturia-folder/lenturia-upper-city/","dgPassFrontmatter":true}
+---
+
+- Inner circle of [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturia\|Lenturia]], the 2nd closest district to [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Heart of Lenturia\|Heart of Lenturia]] where temperature and climate is stable throughout the year.
+- Lenturians living in [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturia upper city\|Lenturia upper city]] call themselves [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/enlightened citizens\|enlightened citizens]] to set themselves apart from those who live in [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturia Slums\|Lenturia Slums]].
+- Lenturians living in [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturia upper city\|Lenturia upper city]] have a lot of opportunities for growth both academical and magical, because of that there is huge diversity in professions and carrier paths that [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/enlightened citizens\|enlightened citizens]] follow.

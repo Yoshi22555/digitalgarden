@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"dg-home":null,"permalink":"/world-building/dilaria-continent/dilaria-landmarks/plains-and-forests/lenturia-plains/","dgPassFrontmatter":true}
+---
+
+- [[World Building/Dilaria Continent/Dilaria Landmarks/Plains and Forests/Lenturia Plains\|Lenturia Plains]] located to the east of [[World Building/Dilaria Continent/Dilaria Landmarks/Deserts/desert circle\|desert circle]] Lenturia plains are very dry and barren plains, 
+- In the middle of these plains there is a giant crystal that emits aura that amplifies innate magic.[[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturian scholars\|Lenturian scholars]] claim that it has fallen from the sky and is of divine origin. 
+- Around this crystal people from races with innate connection to the weave like Elves have built a magical technocratic city [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturia\|Lenturia]] 
+- [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturia\|Lenturia]] functions thanks to the [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenari\|Lenari]], a group of powerful mages who have put themselves into an eternal trance so they can keep [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/thermal shield\|thermal shield]] that stimulates the climate around [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturia\|Lenturia]] up.

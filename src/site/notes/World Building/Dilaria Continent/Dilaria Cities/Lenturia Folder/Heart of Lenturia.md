@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"dg-home":null,"permalink":"/world-building/dilaria-continent/dilaria-cities/lenturia-folder/heart-of-lenturia/","dgPassFrontmatter":true}
+---
+
+- Giant meteorite of unknown origin, some [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturian scholars\|Lenturian scholars]] believe that it was sent by [[Characters/Tenazir\|Tenazir]] to guide [[Characters/Students of Tenazir\|Students of Tenazir]].
+- [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Heart of Lenturia\|Heart of Lenturia]] amplifies magical abilities of those who are around it, which allows [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenari\|Lenari]] to hold the [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/thermal shield\|thermal shield]] that keeps climate of Lenturia liveable.
+- When the [[World Building/Dilaria Continent/Dilaria Landmarks/Misc. Landmarks/Artificial Sun\|Artificial Sun]] has been created by [[Characters/Tenazir\|Tenazir]] and [[Cosmology of Dilaria/Gods/Surtur\|Surtur]] [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Heart of Lenturia\|Heart of Lenturia]] reacted to this by emanating bright blue flare.
+- Because of its importance in the religion of [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Lenturia\|Lenturia]] [[World Building/Dilaria Continent/Dilaria Cities/Lenturia Folder/Heart of Lenturia\|Heart of Lenturia]] hasn't been studied geologically so it is unknown what it is made of or how it works.
