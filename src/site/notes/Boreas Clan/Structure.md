@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-home":null,"permalink":"/boreas-clan/structure/","dgPassFrontmatter":true}
 ---
 
-
 The Clan is led by two leaders:
 - [[Boreas Clan/Misc/The Oldest\|The Oldest]] (Currently [[Boreas Clan/Members/Aldre\|Aldre]]) - leader of the regular members of the clan, he makes the most important decisions in the time of peace and oversees operations of [[Boreas Clan/Misc/Harun\|Harun]].
 - [[Boreas Clan/Misc/The Strongest\|The Strongest]] (Currently [[Boreas Clan/Members/Barig\|Barig]]) - leader of the warriors, he makes the most important decisions in the time of war and has the last say when it comes to organization of raids.

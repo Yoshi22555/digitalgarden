@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-home":null,"permalink":"/boreas-clan/boreas-clan/","dgPassFrontmatter":true}
 ---
 
-
 ### Main characteristics.
 - Clan of nomadic dragonborn.
 - Thanks to their high resistance to temperatures, they thrive on the [[World Building/Dilaria Continent/Dilaria Landmarks/Deserts/desert circle\|desert circle]].
@@ -18,5 +17,5 @@ Characteristics of members of the clan:
 ### History: 
 - The specifics of the origin of the clan are currently unknown but it is believed that the [[Boreas Clan/Boreas Clan\|Boreas Clan]] lived inside icy caves of the [[World Building/Dilaria Continent/Dilaria Landmarks/Misc. Landmarks/Glacier Plain\|Glacier Plain]] before [[Dilaria History/Historical Events/Melting\|Melting]].
 - There are legends of a powerful dragonborn who united the clan when they were still living inside the [[World Building/Dilaria Continent/Dilaria Landmarks/Misc. Landmarks/Glacier Plain\|Glacier Plain]] but the details are unknown, in writing he is mentioned as a [[Characters/Unifier\|Unifier]].
-- There are dungeons and temples left behind by the ancient [[Boreas Clan/Boreas Clan\|Boreas Clan]] underneath sands and underground, those that have been uncovered hit that the clan used to be much more technologically advanced than it currently is.
+- There are dungeons and temples left behind by the ancient [[Boreas Clan/Boreas Clan\|Boreas Clan]] underneath sands and underground, those that have been uncovered hint that the clan used to be much more technologically advanced than it currently is.
 - Also based on the murals and statues inside these temples, scholars of the [[Boreas Clan/Boreas Clan\|Boreas Clan]] claim that the ancient members of the clan were deeply religious and believed in what in writing is called [[Cosmology of Dilaria/Gods/Sky Gods\|Sky Gods]] (the name itself is only an approximation since the original phrase hasn't been translated directly), however there have been very little information about what exactly these gods were.

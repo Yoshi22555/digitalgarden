@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"dg-home":null,"permalink":"/flora-and-fauna/fauna/teserast/","dgPassFrontmatter":true}
+---
+
+- These dog-sized 4 legged segmented invertebrates are the most common, and often domesticated desert predators, thanks to their impressive sense of smell and resistance to high temperatures, they are often used as hounds.
+- There are different variants of the [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]] that all share few characteristics, they all have 4 legs and 2 claws that they use for grabbing and pinching their prey, they have a armoured heads with a long horn coming out of it's front and have a long flat tail that helps them prolong their jumps.
+- All [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]] are carnivores and pack hunters.
+The variants of Teserast are:  
+- Dire [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]] - The largest and the most dangerous ones. They have reddish-brown colouring with white accents. They are much more bulky then the other variants and their horns are the most pronounced, their front claws have been transformed into large claws that are designed for slashing their prey instead of grabbing.
+- Wild [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]] - The 2nd largest variant, their colouring is more varied than Dire ones but they still mostly maintain earthy colours, their claws are still capable of grabbing but their main use just like among Dire [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]] is slashing.
+-  Feral [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]] - these creatures are very similar to the domesticated ones, the main difference is their more pronounced horn and slicker silhouette, these [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]]s are capable of quickly swimming and are the fastest among all variants but because of their more slender build are more frail and aren't as dangerous to face as Dire and Wild variants. This variant's back is mostly coloured with earthy tones, but their claws and legs can have more vibrant colours like their domesticated counterparts.  
+  - Domesticated [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]] - the smallest and the least dangerous variant, they have been bred to live with people for years and are very useful for hunters and desert shepherds, some people like to breed them for their looks and unique colours, and use them for decoration. Vibrant blues and greens are the most popular among collectors.
+  ![Teserast.png](/img/user/Player%20Character%20(Private)/Letty/Images/Teserast.png)
+Drawings of [[Flora and Fauna/Fauna/Teserast\|Flora and Fauna/Fauna/Teserast]] variants including domesticated pup, made by a collector from [[World Building/Dilaria Continent/Dilaria Cities/Port Emas Folder/Port Emas\|Port Emas]].
